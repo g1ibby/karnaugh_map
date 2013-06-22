@@ -1,0 +1,2 @@
+Karnaugh Map 
+Minimization function
